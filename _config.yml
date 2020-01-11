@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://panzi.online
+url: https://mazhuang.org
 date_format: "ordinal"
 title: Korok
 subtitle: "YA HA HA ..."
