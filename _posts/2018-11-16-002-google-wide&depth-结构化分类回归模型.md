@@ -1,14 +1,9 @@
 ---
-layout:     post
-title:      002-google-wide&depth-结构化分类回归模型
-subtitle:    "\"002-google-wide&depth-结构化分类回归模型\""
-date:       2018-11-16
-author:     PZ
-header-img: img/post-bg-2015.jpg
-catalog: true
-tags:
-    - ML
-    - Wide&Depth
+layout: post
+title: google-wide&depth-结构化分类回归模型
+categories: ML
+description: google-wide&depth-结构化分类回归模型
+keywords: ML,Wide&Depth
 ---
 
 ## 002-google-wide&depth-结构化分类回归模型
