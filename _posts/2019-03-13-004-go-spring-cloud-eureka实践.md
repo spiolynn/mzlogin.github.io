@@ -1,14 +1,9 @@
 ---
 layout:     post
-title:      004-go-spring-cloud-eureka实践
-subtitle:    "\"004-go-spring-cloud-eureka实践\""
-date:       2019-03-13
-author:     PZ
-header-img: img/post-bg-2015.jpg
-catalog: true
-tags:
-    - GoLang 
-    - eureka 
+title:      go-spring-cloud-eureka实践
+categories:    GoLang
+description:   将golang微服务接入spring cloud eureka
+keywords：GoLang,eureka
 ---
 
 ## 008-go-eureka实践
