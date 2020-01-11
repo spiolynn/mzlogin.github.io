@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://panzi.online
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title: Korok
+subtitle: "YA HA HA ..."
 description: "马壮的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
