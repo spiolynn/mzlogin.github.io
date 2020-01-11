@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      go-spring-cloud-eureka实践
-categories:    GoLang
-description:   将golang微服务接入spring cloud eureka
-keywords：GoLang,eureka
+layout: post
+title: go-spring-cloud-eureka实践
+categories: GoLang
+description: 将golang微服务接入spring cloud eureka
+keywords: GoLang,eureka
 ---
+
 
 ## 008-go-eureka实践
 
