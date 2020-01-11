@@ -1,19 +1,12 @@
 ---
-layout:     post
-title:      006-Beats平台-MetricBeat
-subtitle:    "\"006-Beats平台-MetricBeat\""
-date:       2018-11-09
-author:     PZ
-header-img: img/post-bg-2015.jpg
-catalog: true
-tags:
-    - ELK
-    - DevOps
+layout: post
+title: Beats平台-MetricBeat
+categories: DevOps
+description: Beats平台-MetricBeat
+keywords: DevOps,ELK
 ---
 
 ### Beats平台
-
-[toc]
 
 #### 0 引用
 
