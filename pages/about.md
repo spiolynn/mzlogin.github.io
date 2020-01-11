@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Hey, this is PZ
+keywords: Panzi, 胡畔 , hupan
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+Hey，我是PZ， 一只ITer，现在WH工作
 
 仰慕「优雅编码的艺术」。
 
-坚信熟能生巧，努力改变人生。
+工作、学习之余，我还是一个科幻爱好者。
+
+生活不止眼前苟且，还有远方的苟且
 
 ## 联系
 
