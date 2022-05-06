@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://panzi.online
+url: https://spiolynn.github.io
 date_format: "ordinal"
 title: Korok
 subtitle: "盘子的博客 YA HA HA ..."
